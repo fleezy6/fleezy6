@@ -2,9 +2,9 @@
 - 👀 I’m interested in coding(hacking issues)
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 How to reach me +255745241831
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 fleezy6/fleezy6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
